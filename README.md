@@ -1,4 +1,4 @@
-# Process-Moniroting-Library
+# Process-Monitoring-Library
 This is an open-source library for researchers in process monitoring
 
 We provide a variety of machine learning and deep learning models for process monitoring, including PCA, KPCA, DPCA, DKPCA, SFA, and Transformer.
